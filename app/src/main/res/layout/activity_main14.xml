@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DDA6A6"
+    tools:context=".MainActivity14"
+    tools:layout_editor_absoluteX="3dp"
+    tools:layout_editor_absoluteY="78dp">
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="392dp"
+        android:layout_height="58dp"
+        android:fontFamily="@font/amethysta"
+        android:text="6. Users are able to send feedbacks too."
+        android:textAlignment="center"
+        android:textColor="#633F3F"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.564" />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="382dp"
+        android:layout_height="61dp"
+        android:fontFamily="@font/amethysta"
+        android:text="4. Navigation Bar has Home Page, About Us, FAQs and User Profile"
+        android:textAlignment="center"
+        android:textColor="#633F3F"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.407"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.388" />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="384dp"
+        android:layout_height="77dp"
+        android:fontFamily="@font/amethysta"
+        android:text="2. For first time user please Register then proceed to Login to enter Home Page."
+        android:textAlignment="center"
+        android:textColor="#633F3F"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.458"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.199" />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="384dp"
+        android:layout_height="77dp"
+        android:fontFamily="@font/amethysta"
+        android:text="3. You can either book Grooming or Hotel service so choose either one. You are able to use both too."
+        android:textAlignment="center"
+        android:textColor="#633F3F"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.592"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.294" />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="384dp"
+        android:layout_height="77dp"
+        android:fontFamily="@font/amethysta"
+        android:text="5. You can preview some of the pet shop item by clicking the bag at the Home Page."
+        android:textAlignment="center"
+        android:textColor="#633F3F"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.592"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.482" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/box"
+        android:backgroundTint="#CD7A7A"
+        android:fontFamily="@font/amethysta"
+        android:text="User Manual"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#633F3F"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.051" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="400dp"
+        android:layout_height="350dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.636"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.988"
+        app:srcCompat="@drawable/uyo" />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="392dp"
+        android:layout_height="58dp"
+        android:fontFamily="@font/amethysta"
+        android:text="1. Click Start Button and navigate to the Login/Register Page."
+        android:textAlignment="center"
+        android:textColor="#633F3F"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.333"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.123" />
+</androidx.constraintlayout.widget.ConstraintLayout>
